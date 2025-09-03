@@ -1,0 +1,15 @@
+food_delivery/
+│
+├─ index.html
+├─ login.html
+├─ signup.html
+├─ css/
+│   └─ style.css
+├─ js/
+│   └─ script.js
+├─ php/
+│   ├─ db.php
+│   ├─ login.php
+│   ├─ signup.php
+│   └─ order.php
+└─ images/
